@@ -10,3 +10,36 @@ What value do you think it offers?
 The staging area is where you select the files you want to commit,
 you can select individualy or group of files to include in the commit.
 
+
+How can you use the staging area to make sure you have on commit per logical change?
+
+you can compare you staging area with your last commit. then select the one
+or many files that represent that logical change.
+
+
+What are some situations when branches would be helpful in
+keeping your history organized? How would branches help?
+
+Well you could have a main branch and an experimental branch
+when creating a piece of software. The branches would permit to 
+try stuff on the exp branch without worrying about breaking stuff.
+
+
+How do the diagrams help you visualize the branch structure?
+
+It's easier to identify the parent branch, if the is one,
+to a commit by having a visual representation.
+
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+the result is it joins one complete branch to another. all past iterations
+of the joined branch are now part of the new merged branch.
+
+
+What are the pros and cons og Git's automatic merging
+vs. always doing merges manually?
+
+automatic merging speeds up the process
+it makes comparing and modifying edits between 2 different bracnhes easy
