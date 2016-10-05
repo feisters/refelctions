@@ -1,0 +1,57 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It made de the process a lot faster since I don't have to compare by sight hundreds of lines.
+I only had to check a dozen lines in this case.
+
+
+How could having easy access to the entire history of a
+file make you a more efficient programmer in the long term?
+
+I could use this to go back to previous version if for example 
+I'm not satisfied with more recent additions to the program.
+I could use it as al earning tool too, to figure out what logical steps I took
+to get to this point in the program.
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+Pros:
+Saving at more meaningful moments.
+
+Cons:
+Make sure to remember to create a commit when you've expressed an idea.
+
+
+Why do you think some version control systems, like Git,
+allow saving multiple files in one commit, while others,
+like Google Docs, treat each file separately?
+
+Git seems to function more in a project based way, with programming in mind.
+Where multiple files are common. 
+Google doc seems focused on document creation, witch could have use for multiple
+files but is broably focusing more on single files/documents.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log show you a reverse chronological order of all commits
+done on a project/group of files. Then you can use git diff to
+compare 2 different commits in details showing each line changes
+between the 2.
+
+
+How might using version control make you more confident to 
+make changes that could break something?
+
+Well, having the option to go back to a previous build anytime
+is really usefull when you eant to try something experimental and 
+your not sure if it's gonna end up working out.
+
+
+Now that you have your workspace set up, what do you want to try using git for?
+
+I'm gonna use git all the way for my CS education.
+This way I'll be able to look back and reflect on 
+my progress through out my journey.
